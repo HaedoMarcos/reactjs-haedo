@@ -1,0 +1,9 @@
+.photo {
+  display: flex;
+  margin: 50px;
+  padding: 50px;
+  justify-content: space-around;
+}
+.foto {
+  width: 250px;
+}
