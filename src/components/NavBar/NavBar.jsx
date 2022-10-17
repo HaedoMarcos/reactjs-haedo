@@ -27,12 +27,12 @@ function NavBar() {
               </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="/Adidas">
+              <a class="nav-link" href="/category/2">
                 Adidas
               </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="/Nike">
+              <a class="nav-link" href="/category/1">
                 Nike
               </a>
             </li>
